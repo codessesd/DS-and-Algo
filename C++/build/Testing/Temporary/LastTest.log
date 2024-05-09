@@ -1,0 +1,19 @@
+Start testing: May 08 15:33 SAST
+----------------------------------------------------------
+Unable to find executable: LinkedListTest_NOT_BUILT
+1/1 Testing: LinkedListTest_NOT_BUILT
+1/1 Test: LinkedListTest_NOT_BUILT
+Command: ""
+Directory: /Users/Rendz/Programs/DS and Algo/C++/build
+"LinkedListTest_NOT_BUILT" start time: 
+Output:
+----------------------------------------------------------
+<end of output>
+Test time =   0.00 sec
+----------------------------------------------------------
+Test Passed.
+"LinkedListTest_NOT_BUILT" end time: May 08 15:33 SAST
+"LinkedListTest_NOT_BUILT" time elapsed: 00:00:00
+----------------------------------------------------------
+
+End testing: May 08 15:33 SAST
