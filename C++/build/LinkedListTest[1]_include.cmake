@@ -1,5 +1,0 @@
-if(EXISTS "/Users/Rendz/Programs/DS and Algo/C++/build/LinkedListTest[1]_tests.cmake")
-  include("/Users/Rendz/Programs/DS and Algo/C++/build/LinkedListTest[1]_tests.cmake")
-else()
-  add_test(LinkedListTest_NOT_BUILT LinkedListTest_NOT_BUILT)
-endif()

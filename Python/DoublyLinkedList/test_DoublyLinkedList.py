@@ -2,7 +2,6 @@ import unittest
 from DoublyLinkedList import DoublyLinkedList
 
 class TestDoublyLinkedList(unittest.TestCase):
-
     def test_append(self):
       dll = DoublyLinkedList()
       dll.append(1)

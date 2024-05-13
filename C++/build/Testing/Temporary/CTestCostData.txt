@@ -1,3 +1,0 @@
-LinkedListTest_NOT_BUILT 0 0
----
-LinkedListTest_NOT_BUILT
